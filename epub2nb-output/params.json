@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "marysa_001.md",
             "xhtml": "marysa_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -48,9 +49,9 @@
             "filename": "marysa_002.md",
             "xhtml": "marysa_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,9 +59,9 @@
             "filename": "marysa_003.md",
             "xhtml": "marysa_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -68,9 +69,9 @@
             "filename": "marysa_004.md",
             "xhtml": "marysa_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -82,7 +83,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "OSOBY"
           },
           {
             "filename": "marysa_006.md",
@@ -92,7 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "POPIS OSOB"
           },
           {
             "filename": "marysa_007.md",
@@ -102,7 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "PRVNÍ JEDNÁNÍ"
           },
           {
             "filename": "marysa_008.md",
@@ -112,7 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DRUHÉ JEDNÁNÍ"
           },
           {
             "filename": "marysa_009.md",
@@ -122,7 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "TŘETÍ JEDNÁNÍ"
           },
           {
             "filename": "marysa_010.md",
@@ -132,7 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ČTVRTÉ JEDNÁNÍ"
           },
           {
             "filename": "marysa_011.md",
@@ -142,15 +149,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "PÁTÉ JEDNÁNÍ"
           },
           {
             "filename": "marysa_012.md",
             "xhtml": "marysa_012.xhtml",
             "id": 11,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -164,7 +172,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Alois a Vilém Mrštíkové",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-01-16T18:22:53.567Z"
+      "modified": "2022-01-16T18:28:01.736Z"
     },
     "chapters": [
       {
@@ -322,6 +330,6 @@
       "user": "books-are-next",
       "repo": "marysa"
     },
-    "generatedAt": 1642357374196
+    "generatedAt": 1642357682527
   }
 }

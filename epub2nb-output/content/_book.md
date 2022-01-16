@@ -12,10 +12,7 @@ meta:
   edition: beletrie
   languageCode: cs
 readingOrder:
-  - marysa_001.html
   - marysa_002.html
-  - marysa_003.html
-  - marysa_004.html
   - marysa_005.html
   - marysa_006.html
   - marysa_007.html
@@ -23,11 +20,33 @@ readingOrder:
   - marysa_009.html
   - marysa_010.html
   - marysa_011.html
-  - marysa_012.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: marysa_005.html
+        title: OSOBY
+        hiddenTitle: false
+      - link: marysa_006.html
+        title: POPIS OSOB
+        hiddenTitle: false
+      - link: marysa_007.html
+        title: PRVNÍ JEDNÁNÍ
+        hiddenTitle: false
+      - link: marysa_008.html
+        title: DRUHÉ JEDNÁNÍ
+        hiddenTitle: false
+      - link: marysa_009.html
+        title: TŘETÍ JEDNÁNÍ
+        hiddenTitle: false
+      - link: marysa_010.html
+        title: ČTVRTÉ JEDNÁNÍ
+        hiddenTitle: false
+      - link: marysa_011.html
+        title: PÁTÉ JEDNÁNÍ
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

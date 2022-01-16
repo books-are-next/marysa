@@ -1,38 +1,18 @@
 {
   "author": "Alois a Vilém Mrštíkové",
   "edition": "beletrie",
-  "identifier": "mrstikove-marysa-2267559",
+  "identifier": "mrstikove-marysa-880ed07",
   "languagecode": "cs",
   "modified": "2022-01-16T18:06:41.986Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Maryša",
-  "revision": "2267559",
+  "revision": "880ed07",
   "generatedAt": {
-    "date": "Sun Jan 16 2022 18:23:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642357427286
+    "date": "Sun Jan 16 2022 18:28:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1642357739201
   },
   "documents": [
-    {
-      "title": "Maryša",
-      "file": "marysa_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "marysa_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Maryša",
       "file": "marysa_002.html",
@@ -40,48 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "marysa_001.html",
-      "next": "marysa_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Maryša",
-      "file": "marysa_003.html",
-      "words": 5,
-      "chars": 29,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "marysa_002.html",
-      "next": "marysa_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Maryša",
-      "file": "marysa_004.html",
-      "words": 81,
-      "chars": 535,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "marysa_003.html",
+      "order": 0,
+      "prev": null,
       "next": "marysa_005.html",
       "toc": [
         {
@@ -100,8 +40,8 @@
       "chars": 553,
       "ideas": 31,
       "role": "chapter",
-      "order": 4,
-      "prev": "marysa_004.html",
+      "order": 1,
+      "prev": "marysa_002.html",
       "next": "marysa_006.html",
       "toc": [
         {
@@ -120,7 +60,7 @@
       "chars": 3131,
       "ideas": 28,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "marysa_005.html",
       "next": "marysa_007.html",
       "toc": [
@@ -140,7 +80,7 @@
       "chars": 24071,
       "ideas": 230,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "marysa_006.html",
       "next": "marysa_008.html",
       "toc": [
@@ -245,7 +185,7 @@
       "chars": 21682,
       "ideas": 187,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "marysa_007.html",
       "next": "marysa_009.html",
       "toc": [
@@ -371,7 +311,7 @@
       "chars": 20102,
       "ideas": 221,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "marysa_008.html",
       "next": "marysa_010.html",
       "toc": [
@@ -462,7 +402,7 @@
       "chars": 19325,
       "ideas": 248,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "marysa_009.html",
       "next": "marysa_011.html",
       "toc": [
@@ -553,9 +493,9 @@
       "chars": 7513,
       "ideas": 94,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "marysa_010.html",
-      "next": "marysa_012.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -610,20 +550,20 @@
       ]
     },
     {
-      "title": "Maryša",
-      "file": "marysa_012.html",
-      "words": 47,
-      "chars": 317,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 11,
+      "title": "Tiráž • Maryša",
+      "file": "colophon.html",
+      "words": 134,
+      "chars": 886,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "marysa_011.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -637,9 +577,9 @@
       "ideas": 1065
     },
     "chapters": {
-      "words": 17574,
-      "chars": 97258,
-      "ideas": 1060
+      "words": 17441,
+      "chars": 96377,
+      "ideas": 1039
     }
   }
 }
