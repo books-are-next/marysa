@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Maryša
@@ -12,7 +13,7 @@ meta:
   edition: beletrie
   languageCode: cs
 readingOrder:
-  - marysa_002.html
+  - promo.html
   - marysa_005.html
   - marysa_006.html
   - marysa_007.html

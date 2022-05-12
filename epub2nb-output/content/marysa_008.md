@@ -1,5 +1,6 @@
 ---
 title: DRUHÉ JEDNÁNÍ
+contentType: prose
 ---
 
 _Obyčejná selská světnice. V koutě stůl, okolo něho lavice, podle zdi dva lenůšky. Vlevo mezi okny malovaná truhla, napravo proti ní vysoko nastlaná postel. Lištny plné malovaných talířů a džbánků, v rohu třírohá almárka „svatý kout“. V levém zadním koutě kachlová kamna, okolo nich lavice, na vrchu visí bidla. V pravém zadním koutě na lenůšku koš s usušeným prádlem._

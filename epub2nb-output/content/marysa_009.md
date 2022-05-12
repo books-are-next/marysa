@@ -1,5 +1,6 @@
 ---
 title: TŘETÍ JEDNÁNÍ
+contentType: prose
 ---
 
 _O dva roky později než 1. jednání._

@@ -1,21 +1,34 @@
 {
-  "author": "Alois a Vilém Mrštíkové",
-  "edition": "beletrie",
-  "identifier": "mrstikove-marysa-880ed07",
-  "languagecode": "cs",
-  "modified": "2022-01-16T18:06:41.986Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Maryša",
-  "revision": "880ed07",
+  "author": "Alois a Vilém Mrštíkové",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "mrstikove-marysa-77d4e5f",
+  "revision": "77d4e5f",
+  "readingOrder": [
+    "promo.html",
+    "marysa_005.html",
+    "marysa_006.html",
+    "marysa_007.html",
+    "marysa_008.html",
+    "marysa_009.html",
+    "marysa_010.html",
+    "marysa_011.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Jan 16 2022 18:28:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1642357739201
+    "date": "Thu May 12 2022 10:38:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351893711
   },
   "documents": [
     {
-      "title": "Maryša",
-      "file": "marysa_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +36,17 @@
       "order": 0,
       "prev": null,
       "next": "marysa_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "OSOBY • Maryša",
+      "title": "OSOBY",
       "file": "marysa_005.html",
       "words": 79,
       "chars": 553,
       "ideas": 31,
       "role": "chapter",
       "order": 1,
-      "prev": "marysa_002.html",
+      "prev": "promo.html",
       "next": "marysa_006.html",
       "toc": [
         {
@@ -54,7 +59,7 @@
       ]
     },
     {
-      "title": "POPIS OSOB • Maryša",
+      "title": "POPIS OSOB",
       "file": "marysa_006.html",
       "words": 479,
       "chars": 3131,
@@ -74,7 +79,7 @@
       ]
     },
     {
-      "title": "PRVNÍ JEDNÁNÍ • Maryša",
+      "title": "PRVNÍ JEDNÁNÍ",
       "file": "marysa_007.html",
       "words": 4410,
       "chars": 24071,
@@ -179,7 +184,7 @@
       ]
     },
     {
-      "title": "DRUHÉ JEDNÁNÍ • Maryša",
+      "title": "DRUHÉ JEDNÁNÍ",
       "file": "marysa_008.html",
       "words": 3997,
       "chars": 21682,
@@ -305,7 +310,7 @@
       ]
     },
     {
-      "title": "TŘETÍ JEDNÁNÍ • Maryša",
+      "title": "TŘETÍ JEDNÁNÍ",
       "file": "marysa_009.html",
       "words": 3691,
       "chars": 20102,
@@ -396,7 +401,7 @@
       ]
     },
     {
-      "title": "ČTVRTÉ JEDNÁNÍ • Maryša",
+      "title": "ČTVRTÉ JEDNÁNÍ",
       "file": "marysa_010.html",
       "words": 3451,
       "chars": 19325,
@@ -487,7 +492,7 @@
       ]
     },
     {
-      "title": "PÁTÉ JEDNÁNÍ • Maryša",
+      "title": "PÁTÉ JEDNÁNÍ",
       "file": "marysa_011.html",
       "words": 1334,
       "chars": 7513,
@@ -550,11 +555,11 @@
       ]
     },
     {
-      "title": "Tiráž • Maryša",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 134,
-      "chars": 886,
-      "ideas": 22,
+      "words": 115,
+      "chars": 745,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "marysa_011.html",
@@ -572,9 +577,9 @@
   ],
   "totals": {
     "all": {
-      "words": 17582,
-      "chars": 97303,
-      "ideas": 1065
+      "words": 17563,
+      "chars": 97162,
+      "ideas": 1060
     },
     "chapters": {
       "words": 17441,

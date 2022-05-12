@@ -1,5 +1,6 @@
 ---
 title: PRVNÍ JEDNÁNÍ
+contentType: prose
 ---
 
 _Návsí moravské dědiny, táhnoucí se vlevo nazad. Prostředkem návsí teče potok, překlenutý na jednom místě nahrbeným můstkem. V popředí po stranách jeviště naproti sobě dva selské statky. Jeden z nich, proti statku Lízalovu, vyzdvižen je na kopečku tak, aby pod ním byl Lízalův sklep, vedoucí do země. Před statky malé zahrádky, tzv. „před našima“. Tam, kde zahrádky u Lízalova statku až po dveře sahají, stojí u zápraží lavička. V zahrádce dva stromky._
