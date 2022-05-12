@@ -1,5 +1,6 @@
 ---
 title: ČTVRTÉ JEDNÁNÍ
+contentType: prose
 ---
 
 _Světnice u Vávrů ve mlýně, selsky zařízená. V levém koutě vzadu veliká kachlová kamna a okolo nich lavice. V pravém koutě vysoko narovnaná postel. Nad postelí dřevěná police, na níž jsou srovnány talíře, sklenice a bílý, květovaný šátek. V koutě za postelí visí vlňákem zpola zakryté naškrobené sukně. Vedle postele u okna vprostřed zadní stěny oknem je vidět daleko do vsi k hospodě s ozářenými okny – malovaná velká truhla. Nalevo v popředí starodávný prádelník s příhradami a na něm lesklé skleněné svícny s hromničkami, okrášlenými umělými kytkami, různé druhy sklenic, kancionály a uprostřed krucifix, pokrytý skleněným poklopem. Po stěnách v řadách podle sebe prosté obrazy, mezi nimi černá madona. Mezi kamny a prádelníkem druhá postel rozestlaná. Na oknech krátké, bílé, po krajích vroubkované záclony. U dveří visí hodiny, tzv. švarcvaldky. Napravo v popředí stůl a na něm hořící, prostá petrolejová lampa. Povšechný ráz světnice je ponurý._

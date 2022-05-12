@@ -1,5 +1,6 @@
 ---
 title: POPIS OSOB
+contentType: prose
 ---
 
 **LÍZAL:**
