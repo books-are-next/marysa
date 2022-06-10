@@ -3,6 +3,8 @@ title: PRVNÍ JEDNÁNÍ
 contentType: prose
 ---
 
+<section>
+
 _Návsí moravské dědiny, táhnoucí se vlevo nazad. Prostředkem návsí teče potok, překlenutý na jednom místě nahrbeným můstkem. V popředí po stranách jeviště naproti sobě dva selské statky. Jeden z nich, proti statku Lízalovu, vyzdvižen je na kopečku tak, aby pod ním byl Lízalův sklep, vedoucí do země. Před statky malé zahrádky, tzv. „před našima“. Tam, kde zahrádky u Lízalova statku až po dveře sahají, stojí u zápraží lavička. V zahrádce dva stromky._
 
 _Po vyhrnutí opony na jevišti sváteční klid. Jen ojediněle dvěma třemi skvrnami přejdou jevištěm 2–3 svátečně ustrojená děvčata s kancionály, sedláci v kožiších, děti i obstárlé ženy a zajdou, aby za chvíli objevil se zas někdo z nich. Tak ve vhodných chvílích i průběhem jednání. – Jedno z děvčat průběhem jednání vejde i do statku naproti Lízalovům. Po chvíli vyběhnou odtud dvě, rovněž svátečně oblečené děvčice. – Dvě děvčata hned po vyzdvižení opony malebně lokty opírají se o zábradlí můstku uprostřed a baví se a smějí se šuhajem stojícím před nimi. – Před blížícími se a zpívajícími rekruty obě splašeně prchnou a šuhaj připojí se k rekrutům. Zpívá s nimi._
@@ -400,14 +402,18 @@ už jdu od vás, :\]
 \[: neublížil jsem :\]  
 žádnému z vás._
 
-  
+</section>
+
+<section>
 
 _\[: Jak mladému  
 tak starému :\]  
 \[: neublížil jsem :\]  
 z vás žádnému._
 
-  
+</section>
+
+<section>
 
 _Za scénou._
 
@@ -416,7 +422,9 @@ už jdu od vás, :\]
 \[: aji jsem poznali :\]  
 faleš od vás._
 
-  
+</section>
+
+<section>
 
 _MARYŠA rozevírá okno a hledí na průvod._
 
@@ -457,3 +465,5 @@ _V posledních okamžicích vystoupí právě LÍZAL a zlostně hledí na FRAN
 _Z dálky je slyšet melodii písně „S Pánem Bohem“._
 
 _Opona v tichu spadne._
+
+</section>

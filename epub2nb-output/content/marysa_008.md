@@ -3,6 +3,8 @@ title: DRUHÉ JEDNÁNÍ
 contentType: prose
 ---
 
+<section>
+
 _Obyčejná selská světnice. V koutě stůl, okolo něho lavice, podle zdi dva lenůšky. Vlevo mezi okny malovaná truhla, napravo proti ní vysoko nastlaná postel. Lištny plné malovaných talířů a džbánků, v rohu třírohá almárka „svatý kout“. V levém zadním koutě kachlová kamna, okolo nich lavice, na vrchu visí bidla. V pravém zadním koutě na lenůšku koš s usušeným prádlem._
 
 _MARYŠA stojíc u koše překládá na stole prádlo. Oblečena jako v 1. jed­nání. Na malé stoličce u kamen sedí stařenka a loupá zrna z kukuřicových klasů. Stařenka sedí v popředí jeviště nedaleko dveří do druhé světnice. U kamen na lavici sedí tetka STROUHALKA majíc vlňák přehozený přes rameno. V ruce drží klíč. Vedle sebe koš, z něhož průběhem hovoru vezme jablko, okrajuje a po kousku jí._
@@ -374,3 +376,5 @@ _Všichni odejdou mimo BABIČKU._
 **BABIČKA** _(sama. Vyprovází všecky až na práh. Vrátí se, sedne na své místo, chopí se zas kukuřičných klasů a povzdechne si)_: Ach ja! Pánbu jí pomáhej! _(Loupe dál.)_
 
 _Opona spadne._
+
+</section>

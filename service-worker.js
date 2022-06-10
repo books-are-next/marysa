@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-77d4e5f';
+const CACHE = 'cache-017c2ae';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./manifest.json","./index.html","./marysa_005.html","./marysa_006.html","./marysa_007.html","./marysa_008.html","./marysa_009.html","./marysa_010.html","./marysa_011.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_marysa2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./marysa_005.html","./marysa_006.html","./marysa_007.html","./marysa_008.html","./marysa_009.html","./marysa_010.html","./marysa_011.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_marysa2.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

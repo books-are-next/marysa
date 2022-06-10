@@ -3,6 +3,8 @@ title: PÁTÉ JEDNÁNÍ
 contentType: prose
 ---
 
+<section>
+
 _Prostranná kuchyně s velikým prostým sporákem a bílou pecí v levém pozadí. V pravém pozadí police s kuchyňským nádobím a hmoždířem. Po levé straně jeviště prostá postel, přikrytá tabulí; u postele lenůšek. V pravém popředí dlouhý stůl, nebarvený, se zkříženými nohami. U podélných stran stolu lavice, se stolem stejně dlouhé. Mezi stolem a policí po pravé straně jeviště nebarvená skříň – spižírna. U dveří lavička. Na stole hrnky. Vedle postele stará malovaná truhla. Na zdi u spořiště visí lžičník, dřevěná solnička, hrnky a zastrkané vařečky. Na zemi u sporáku dříví. U stolu staromódní židle s lenochem. Na stěně vzadu staré začazené hodiny a velký, černý krucifix._
 
 ## Výstup 1.
@@ -188,3 +190,5 @@ _V pozadí ve dveřích muži nesoucí VÁVRU._
 **VÁVROVÁ** _(dutě)_: Otrávila.
 
 _Opona spadne._
+
+</section>
