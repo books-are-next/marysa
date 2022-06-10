@@ -3,6 +3,8 @@ title: OSOBY
 contentType: prose
 ---
 
+<section>
+
 **LÍZAL**, sedlák
 
 **LÍZALKA**, jeho žena
@@ -59,10 +61,16 @@ contentType: prose
 
 **MUZIKANTI**, **SEDLÁCI**, **CHASA**, **MLATCI**, **DĚTI**
 
-  
+</section>
+
+<section>
 
 _Místo děje: Moravská dědina._
 
-  
+</section>
+
+<section>
 
 _Třetí jednání o dvě léta později než první._
+
+</section>

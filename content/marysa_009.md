@@ -3,6 +3,8 @@ title: TŘETÍ JEDNÁNÍ
 contentType: prose
 ---
 
+<section>
+
 _O dva roky později než 1. jednání._
 
 _Venkovská hospoda. Napravo v pozadí nálevna ohrazená dřevěným vysokým šprlením. Na stěně nálevny visí starý plakát paroplavební společnosti, pak plakát továrny na hospodářské stroje a vedle novoroční přání kominíkovo. Nálevní okénko. Před nálevnou napravo velký kulatý masivní stůl o čtyřech nohách. Na levé straně jeviště dvě okna. U okna v popředí malý čtyřhranný stolek, pod oknem lavice. Kolem stolku židle. U okna v pozadí šicí stroj. Vzadu vedle dveří podlouhlý stůl. Po jeho delších stranách lavice._
@@ -444,3 +446,5 @@ _Opona spadne._
 * * *
 
 [1](./resources/undefined) V Cyrilo-Methodějské záložně.
+
+</section>
