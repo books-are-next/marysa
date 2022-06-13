@@ -12,6 +12,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   languageCode: cs
+  isbn: 978-80-274-2506-8
 readingOrder:
   - promo.html
   - marysa_005.html
