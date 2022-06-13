@@ -8,7 +8,8 @@
       "modified": "2022-01-16T18:06:41.986Z",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "isbn": "978-80-274-2506-8"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -330,6 +331,6 @@
       "user": "books-are-next",
       "repo": "marysa"
     },
-    "generatedAt": 1654948603008
+    "generatedAt": 1655155776008
   }
 }
