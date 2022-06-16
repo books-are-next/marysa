@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   languageCode: cs
   isbn: 978-80-274-2506-8
+  contentType: prose
 readingOrder:
   - promo.html
   - marysa_005.html
