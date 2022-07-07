@@ -23,7 +23,7 @@ readingOrder:
   - marysa_009.html
   - marysa_010.html
   - marysa_011.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
