@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mrstikove-marysa-0f073c2",
-  "revision": "0f073c2",
+  "identifier": "mrstikove-marysa-f5d413f",
+  "revision": "f5d413f",
   "readingOrder": [
     "promo.html",
     "marysa_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:02:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188179170
+    "date": "Thu Jul 21 2022 14:37:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414258224
   },
   "documents": [
     {
@@ -558,7 +558,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 128,
-      "chars": 838,
+      "chars": 839,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -577,8 +577,8 @@
   ],
   "totals": {
     "all": {
-      "words": 17575,
-      "chars": 97260,
+      "words": 17576,
+      "chars": 97256,
       "ideas": 1060
     },
     "chapters": {
