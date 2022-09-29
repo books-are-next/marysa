@@ -263,7 +263,7 @@ _LÍZAL otřepe pero a nemotorně podpisuje._
 
 _PŘEDEŠLÍ bez HORAČKY._
 
-**LÍZAL**: A nedám, nedám svý dítě trápit – Dům si ju vezmu a jemu nic nedám – nic – nic! _(Vstane.)_ Lunti! – Všeci só lunti! Syn je lunt, zeť je lunt a ten vdovčisko škaredé je lunt ten névětší – _(Rozkřikne se na sousedy.)_ A pite, chlapci, pite všeci! Každýmu dám, jen jemu nic. Pantáto, sklínky sem dé, pite. Za mý peníze pite! Každýmu dám, kdo přinde – a flašku vína na stůl a tady temu pánovi od hóřadu _(smekne nízko čepici)_ taky. A – a pite pryč! Žádné nesmí říct, že su já škrťa! – _(Polo s pláčem.)_ Pravda, pantáto, že nésu škrťa? Já su dobré hospodář – mohutné sedlák, velké gavalír, ale žádná škrťa. Půllán, jak jsem je kópil, tak jé mám a ještě jeden sem kópil – Koně mám, čtyrycet centů na ně možu naložit a z pekla s těm vyjedó. – A – a míval sem koně, míval – celó Moravu v jedněm kuse tropem by byli objeli a nezastavili se! Takový sem já míval koně! Ale zeť a syn majó žebráky, mrchy, kočky škaredý. A ten vdovčisko už má ty néhorší koně na světě. To je hospodář? Temu já mám dávat peníze, které sem krvjó vydělal? Pořád jen tak od svatéch[1](./resources/undefined) vypučívat a já abech to platil! A kde já je mám brat? Copak je v cihelni peču? Nebo je z rebníčka vetahuju?
+**LÍZAL**: A nedám, nedám svý dítě trápit – Dům si ju vezmu a jemu nic nedám – nic – nic! _(Vstane.)_ Lunti! – Všeci só lunti! Syn je lunt, zeť je lunt a ten vdovčisko škaredé je lunt ten névětší – _(Rozkřikne se na sousedy.)_ A pite, chlapci, pite všeci! Každýmu dám, jen jemu nic. Pantáto, sklínky sem dé, pite. Za mý peníze pite! Každýmu dám, kdo přinde – a flašku vína na stůl a tady temu pánovi od hóřadu _(smekne nízko čepici)_ taky. A – a pite pryč! Žádné nesmí říct, že su já škrťa! – _(Polo s pláčem.)_ Pravda, pantáto, že nésu škrťa? Já su dobré hospodář – mohutné sedlák, velké gavalír, ale žádná škrťa. Půllán, jak jsem je kópil, tak jé mám a ještě jeden sem kópil – Koně mám, čtyrycet centů na ně možu naložit a z pekla s těm vyjedó. – A – a míval sem koně, míval – celó Moravu v jedněm kuse tropem by byli objeli a nezastavili se! Takový sem já míval koně! Ale zeť a syn majó žebráky, mrchy, kočky škaredý. A ten vdovčisko už má ty néhorší koně na světě. To je hospodář? Temu já mám dávat peníze, které sem krvjó vydělal? Pořád jen tak od svatéch[^1] vypučívat a já abech to platil! A kde já je mám brat? Copak je v cihelni peču? Nebo je z rebníčka vetahuju?
 
 ## Výstup 8.
 
@@ -445,6 +445,6 @@ _Opona spadne._
 
 * * *
 
-[1](./resources/undefined) V Cyrilo-Methodějské záložně.
+[^1]: V Cyrilo-Methodějské záložně.
 
 </section>
