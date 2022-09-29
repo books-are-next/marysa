@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mrstikove-marysa-f5d413f",
-  "revision": "f5d413f",
+  "identifier": "mrstikove-marysa-ca16c60",
+  "revision": "ca16c60",
   "readingOrder": [
     "promo.html",
     "marysa_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:37:38 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414258224
+    "date": "Thu Sep 29 2022 21:28:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486925310
   },
   "documents": [
     {
@@ -313,7 +313,7 @@
       "title": "TŘETÍ JEDNÁNÍ",
       "file": "marysa_009.html",
       "words": 3691,
-      "chars": 20102,
+      "chars": 20103,
       "ideas": 221,
       "role": "chapter",
       "order": 5,
@@ -578,12 +578,12 @@
   "totals": {
     "all": {
       "words": 17576,
-      "chars": 97256,
+      "chars": 97257,
       "ideas": 1060
     },
     "chapters": {
       "words": 17441,
-      "chars": 96377,
+      "chars": 96378,
       "ideas": 1039
     }
   }
