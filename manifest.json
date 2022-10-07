@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "mrstikove-marysa-61cc301",
-  "revision": "61cc301",
+  "identifier": "mrstikove-marysa-6693688",
+  "revision": "6693688",
   "readingOrder": [
     "promo.html",
     "marysa_005.html",
@@ -22,8 +22,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:58:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924335961
+    "date": "Fri Oct 07 2022 14:05:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151516177
   },
   "documents": [
     {
